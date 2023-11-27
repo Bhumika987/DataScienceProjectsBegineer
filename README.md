@@ -1,5 +1,5 @@
 # OIBSIP
-Data Science Projects for Oasis Infobyte Internship  
+Data Science Projects   
 It Includes tasks like:  
       1. Iris Flower Classification.  
       2. Unemployment Analysis with Python.  
