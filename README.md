@@ -1,5 +1,4 @@
-# OIBSIP
-Data Science Projects   
+# Data Science Projects   
 It Includes tasks like:  
       1. Iris Flower Classification.  
       2. Unemployment Analysis with Python.  
